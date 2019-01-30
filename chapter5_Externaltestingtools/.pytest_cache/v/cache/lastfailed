@@ -1,0 +1,4 @@
+{
+  "test_calculator.py::TddInPythonExample": true,
+  "test_calculator.py::TddInPythonExample::test_calculator_returns_error_message_if_both_args_not_numbers": true
+}
